@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-task-tracker/static/css/main.502d0a39.css",
-    "main.js": "/react-task-tracker/static/js/main.c2a1422f.js",
-    "static/js/787.226f4826.chunk.js": "/react-task-tracker/static/js/787.226f4826.chunk.js",
-    "static/media/abul-basher.jpg": "/react-task-tracker/static/media/abul-basher.0d58b93afbab33cc5b64.jpg",
+    "main.css": "/react-task-tracker/static/css/main.088b6ab0.css",
+    "main.js": "/react-task-tracker/static/js/main.36fbacbe.js",
     "index.html": "/react-task-tracker/index.html",
-    "main.502d0a39.css.map": "/react-task-tracker/static/css/main.502d0a39.css.map",
-    "main.c2a1422f.js.map": "/react-task-tracker/static/js/main.c2a1422f.js.map",
-    "787.226f4826.chunk.js.map": "/react-task-tracker/static/js/787.226f4826.chunk.js.map"
+    "main.088b6ab0.css.map": "/react-task-tracker/static/css/main.088b6ab0.css.map",
+    "main.36fbacbe.js.map": "/react-task-tracker/static/js/main.36fbacbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.502d0a39.css",
-    "static/js/main.c2a1422f.js"
+    "static/css/main.088b6ab0.css",
+    "static/js/main.36fbacbe.js"
   ]
 }
